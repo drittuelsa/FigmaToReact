@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/FigmaToReact/static/css/main.36dbe7e0.css",
-    "main.js": "/FigmaToReact/static/js/main.12e87390.js",
-    "static/js/453.7a4fe9bf.chunk.js": "/FigmaToReact/static/js/453.7a4fe9bf.chunk.js",
+    "main.css": "/FigmaToReact/static/css/main.d460206b.css",
+    "main.js": "/FigmaToReact/static/js/main.49c49f44.js",
+    "static/js/317.8f0aefdc.chunk.js": "/FigmaToReact/static/js/317.8f0aefdc.chunk.js",
     "index.html": "/FigmaToReact/index.html",
-    "main.36dbe7e0.css.map": "/FigmaToReact/static/css/main.36dbe7e0.css.map",
-    "main.12e87390.js.map": "/FigmaToReact/static/js/main.12e87390.js.map",
-    "453.7a4fe9bf.chunk.js.map": "/FigmaToReact/static/js/453.7a4fe9bf.chunk.js.map"
+    "main.d460206b.css.map": "/FigmaToReact/static/css/main.d460206b.css.map",
+    "main.49c49f44.js.map": "/FigmaToReact/static/js/main.49c49f44.js.map",
+    "317.8f0aefdc.chunk.js.map": "/FigmaToReact/static/js/317.8f0aefdc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.36dbe7e0.css",
-    "static/js/main.12e87390.js"
+    "static/css/main.d460206b.css",
+    "static/js/main.49c49f44.js"
   ]
 }
